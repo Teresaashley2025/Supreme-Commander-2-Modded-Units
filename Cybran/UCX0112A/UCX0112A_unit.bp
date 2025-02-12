@@ -106,7 +106,7 @@ UnitBlueprint {
     Description = '<LOC UNIT_DESCRIPTION_0036>Experimental Gunship',
     Display = {
         AttackReticle = 3,
-        DisplayName = '<LOC UNIT_NAME_0072>Soul Ripper II',
+        DisplayName = '<LOC UNIT_NAME_0072>Soul Crusher',
         EffectGroupClassification = 'Medium',
         HalfBakedShutdownEffect = 'HalfBakedShutdownAmbients02',
         HalfBakedShutdownEffectBone = 'Exhaust03',
@@ -249,7 +249,7 @@ UnitBlueprint {
         ExperienceValue = 6000,
         FactionName = 'Cybran',
         Icon = 'air',
-        UnitName = '<LOC UNIT_NAME_0073>Soul Ripper II',
+        UnitName = '<LOC UNIT_NAME_0073>Soul Crusher',
         UnitWeight = 1,
     },
     Intel = {
@@ -300,7 +300,7 @@ UnitBlueprint {
             AutoInitiateAttackOnPatrol = true,
             BallisticArc = 'RULEUBA_None',
             CollideFriendly = false,
-            Damage = 115,
+            Damage = 115000,
             DamageFriendly = false,
             DamageType = 'Normal',
             DisplayName = 'Laser 1',

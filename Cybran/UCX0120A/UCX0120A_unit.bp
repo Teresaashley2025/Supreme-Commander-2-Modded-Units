@@ -347,7 +347,7 @@ UnitBlueprint {
             AutoInitiateAttackOnPatrol = true,
             BallisticArc = 'RULEUBA_LowArc',
             CollideFriendly = false,
-            Damage = 220000,
+            Damage = 520000,
             DamageFriendly = false,
             DamageRadius = 5,
             DamageType = 'Normal',
