@@ -67,7 +67,7 @@ UnitBlueprint {
     },
     Description = '<LOC UNIT_DESCRIPTION_0127>Experimental Quantum Distortion Artillery',
     Display = {
-        DisplayName = '<LOC UNIT_NAME_0254>Disruptor Station',
+        DisplayName = '<LOC UNIT_NAME_0254>Mega Disruptor Station',
         Mesh = {
             IconFadeInZoom = 130,
             LODReduceImmune = true,

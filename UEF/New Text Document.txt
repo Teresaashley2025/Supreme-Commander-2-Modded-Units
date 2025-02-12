@@ -1,8 +1,15 @@
 UEF
 
 UUB0011E -- Advanced Land Gantry
+UUB0012E -- Advanced Air Gantry
 UUB0801R -- Advanced Research Station
 UUX0106A -- Thor Emperor Kriptor
+UUX0102A -- AC3000 Terror
 UUX0103A -- C-230 Star King Extreme Mark II
 UUX0112A -- Experimental Air Factory Fortress
 UUX0115E -- Mega Disruptor Station
+UUX0105D1A -- Super Triton II - NA
+UUX0113D1A -- Jackhammer - NA
+UUx0116D1A -- Aegis
+
+Note: I haven't figured out how to put the Experimental Sea Unit into construction list
