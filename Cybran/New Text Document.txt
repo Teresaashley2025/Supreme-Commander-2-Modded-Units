@@ -1,2 +1,7 @@
+Cybran
+
 UCX0112A -- Soul Crusher 
 UCX0120A -- Cybranasaurus Rex Mark II
+UCX0103E -- Super Bomb Bouncer
+UCB0011E -- Land Gantry
+UCB0012E -- Air Gantry
