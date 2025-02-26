@@ -260,7 +260,7 @@ UnitBlueprint {
                 Width = 40,
             },
         },
-        UniformScale = 0.11,
+        UniformScale = 0.10,
     },
     Economy = {
         BuildRate = 1,

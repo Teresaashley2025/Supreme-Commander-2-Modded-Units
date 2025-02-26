@@ -161,7 +161,7 @@ UnitBlueprint {
                 },
             },
         },
-        UniformScale = 0.1,
+        UniformScale = 0.2,
     },
     Economy = {
         BuildTime = 10,
