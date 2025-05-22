@@ -62,9 +62,9 @@ UnitBlueprint {
     Defense = {
         AirThreatLevel = 0,
         EconomyThreatLevel = 20,
-        Health = 999999999000000000000000000000000000,
-        MaxHealth = 999999999000000000000000000000000000,
-        RegenRate = 199999999999999999900000000000000000,
+        Health = 120000000000,
+        MaxHealth = 120000000000,
+        RegenRate = 10000000000,
         SurfaceThreatLevel = 0,
     },
     Description = '<LOC UNIT_DESCRIPTION_0127>Experimental Quantum Distortion Artillery',
@@ -167,7 +167,7 @@ UnitBlueprint {
     },
     Economy = {
         BuildTime = 10,
-        CaptureTimeMult = 100000000000000000000.6,
+        CaptureTimeMult = 10000000000.6,
         EnergyValue = 385,
         MassValue = 114,
         RebuildBonusIds = {
@@ -242,9 +242,9 @@ UnitBlueprint {
             CameraShakeMin = 0.3,
             CameraShakeRadius = 50,
             CollideFriendly = false,
-            Damage = 999999999999999999000000000000000000,
+            Damage = 120000000,
             DamageFriendly = false,
-            DamageRadius = 200,
+            DamageRadius = 30,
             DamageType = 'Normal',
             DisplayName = 'Mega Disruptor Cannon',
             FireTargetLayerCaps = {
@@ -253,7 +253,7 @@ UnitBlueprint {
             FiringRandomness = 0.9,
             FiringTolerance = 2,
             Label = 'MainGun',
-            MaxRadius = 1850,
+            MaxRadius = 850,
             MinRadius = 50,
             MuzzleFlashEffect = 'UEF_DisruptorArtillery01_Launch01',
             MuzzleSalvoDelay = 0,
