@@ -295,9 +295,9 @@ UnitBlueprint {
         CaptureTimeMult = 0.6,
         EnergyValue = 75,
         MassValue = 37,
-        ProductionPerSecondResearch = 1.5000,
-        ProductionPerSecondMass = 20.5,
-        ProductionPerSecondEnergy = 100,
+        ProductionPerSecondResearch = 3.5000,
+        ProductionPerSecondMass = 50.5,
+        ProductionPerSecondEnergy = 250,
         RebuildBonusIds = {
             'UUB0801',
         },

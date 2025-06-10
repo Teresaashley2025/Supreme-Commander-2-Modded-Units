@@ -245,7 +245,7 @@ UnitBlueprint {
             'UUX0111_LeftClav',
             'UUX0111_T01_B01_Recoil01',
         },
-        UniformScale = 0.65,
+        UniformScale = 0.64,
     },
     Economy = {
         BuildTime = 5,
